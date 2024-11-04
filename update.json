@@ -1,5 +1,4 @@
 {
-  "versionCode": 1.5,
-  "downloadUrl": "http://192.168.0.102/柯基的冒险之路.apk",
-  "releaseNotes": "新增功能和修复了一些问题。"
+  "version": "1.5.0",
+  "apk_url": "https://github.com/ZeroStars01/CorgiAdventure-sHotUpdateWarehouse/releases/download/HotUpdateTest/default.apk"
 }
